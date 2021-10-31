@@ -1,5 +1,5 @@
 * {
-    margin-left:30px; margin-right: 30px; margin-top: 0;box-sizing: border-box;
+    margin-left:50px; margin-right: 50px; margin-top: 0;box-sizing: border-box;
 
 }
 #container{
@@ -25,10 +25,12 @@
 .name{
     font-style: italic;
     text-transform:uppercase;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Architects Daughter', cursive;
+    
+
 }
 .sname{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;;
     color:  yellow;
     font-size: larger;
     text-transform: uppercase;
@@ -37,8 +39,10 @@
     text-indent: 50px;
 }
 .right{
-    float:right;
-    width: 170px;
+    left: 900px;
+    bottom: 50px;
+    position:relative;
+    width: 200px;
     
 }
 .down{
@@ -49,10 +53,10 @@
 .name2{
     font-style: italic;
     text-transform:uppercase;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Roboto', sans-serif;
 }
 .sname2{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;;
     color:  red;
     font-size: larger;
     text-transform: uppercase;
